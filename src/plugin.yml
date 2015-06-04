@@ -1,0 +1,10 @@
+name: PyroMCMaster
+main: com.PyroMC.PyroMCMaster.PyroMCMaster
+description: The master plugin for PyroMC!
+version: 3.0
+authors: [Cyrokrypto]
+commands:
+    autobcast:
+        usage: /<command> <color> <message>
+        description: Does a broadcast with custom colors!
+        aliases: [ab]

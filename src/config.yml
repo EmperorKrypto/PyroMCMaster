@@ -1,0 +1,15 @@
+#PyroMC folder by Cyro
+# TESTTT
+
+#This will display before the broadcast, you can leave it empty if you want.
+#Example: prefix: '&d[Server]'
+prefix: '&8[&4PyroMC&8]'
+
+#Auto Broadcast
+broadcast: ' &3&lVisit the forums! forums.PyroMC.ga!!!!'
+# in seconds
+interval: 60
+
+users:
+    owner:
+        - swagman458732322
